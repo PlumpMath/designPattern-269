@@ -1,5 +1,9 @@
 package com.wp.personal.SixCreatedPatterns.FactoryMethodPattern;
 
+import com.wp.personal.SixCreatedPatterns.FactoryMethodPattern.Entity.Logger;
+import com.wp.personal.SixCreatedPatterns.FactoryMethodPattern.Factory.FileLoggerFactory;
+import com.wp.personal.SixCreatedPatterns.FactoryMethodPattern.Factory.LoggerFactory;
+
 /**
  * Client
  *

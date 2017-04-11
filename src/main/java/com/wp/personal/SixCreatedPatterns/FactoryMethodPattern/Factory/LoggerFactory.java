@@ -1,4 +1,6 @@
-package com.wp.personal.SixCreatedPatterns.FactoryMethodPattern;
+package com.wp.personal.SixCreatedPatterns.FactoryMethodPattern.Factory;
+
+import com.wp.personal.SixCreatedPatterns.FactoryMethodPattern.Entity.Logger;
 
 /**
  * LoggerFactory
