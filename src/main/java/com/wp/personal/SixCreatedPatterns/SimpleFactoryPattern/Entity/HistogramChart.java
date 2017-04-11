@@ -1,4 +1,4 @@
-package com.wp.personal.SixCreatedPatterns.SimpleFactoryPattern;
+package com.wp.personal.SixCreatedPatterns.SimpleFactoryPattern.Entity;
 
 /**
  * HistogramChart

@@ -1,4 +1,9 @@
-package com.wp.personal.SixCreatedPatterns.SimpleFactoryPattern;
+package com.wp.personal.SixCreatedPatterns.SimpleFactoryPattern.Factory;
+
+import com.wp.personal.SixCreatedPatterns.SimpleFactoryPattern.Entity.Chart;
+import com.wp.personal.SixCreatedPatterns.SimpleFactoryPattern.Entity.HistogramChart;
+import com.wp.personal.SixCreatedPatterns.SimpleFactoryPattern.Entity.LineChart;
+import com.wp.personal.SixCreatedPatterns.SimpleFactoryPattern.Entity.PieChart;
 
 /**
  * ChartFactory

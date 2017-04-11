@@ -1,4 +1,4 @@
-package com.wp.personal.SixCreatedPatterns.SimpleFactoryPattern;
+package com.wp.personal.SixCreatedPatterns.SimpleFactoryPattern.Entity;
 
 /**
  * PieChart
@@ -7,7 +7,7 @@ package com.wp.personal.SixCreatedPatterns.SimpleFactoryPattern;
  * @Author Wang Peng
  * @Date 2017/4/10 17:14
  */
-public class PieChart implements Chart{
+public class PieChart implements Chart {
 
     public PieChart() {
         System.out.println("创建饼状图！");
